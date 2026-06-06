@@ -1,405 +1,920 @@
-# AWAIS CYBER VPS
-
-<div align="center">
-
-![AWAIS CYBER VPS Banner](https://via.placeholder.com/1200x400/0B0F19/00CFFF?text=AWAIS+CYBER+VPS)
-
 # 🚀 AWAIS CYBER VPS
 
-## Powerful Cloud Hosting For Developers, Businesses & Creators
+<div align="center">
 
-[![GitHub Repository](https://img.shields.io/badge/GitHub-AWAIS--CYBER--VPS-00CFFF?style=for-the-badge&logo=github)](https://github.com/awaiscybergang/AWAIS-CYBER-VPS)
-[![Version](https://img.shields.io/badge/version-1.0.0-blue?style=for-the-badge&logo=vercel)](https://github.com/awaiscybergang/AWAIS-CYBER-VPS)
-[![Node.js](https://img.shields.io/badge/Node.js-18.x-green?style=for-the-badge&logo=node.js)](https://nodejs.org)
-[![MongoDB](https://img.shields.io/badge/MongoDB-6.0-brightgreen?style=for-the-badge&logo=mongodb)](https://mongodb.com)
-[![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge&logo=opensourceinitiative)](https://opensource.org/licenses/MIT)
+![AWAIS CYBER VPS Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,8,12&height=300&section=header&text=AWAIS%20CYBER%20VPS&fontSize=70&fontColor=fff&animation=fadeIn)
 
-[![Stars](https://img.shields.io/github/stars/awaiscybergang/AWAIS-CYBER-VPS?style=social)](https://github.com/awaiscybergang/AWAIS-CYBER-VPS)
-[![Forks](https://img.shields.io/github/forks/awaiscybergang/AWAIS-CYBER-VPS?style=social)](https://github.com/awaiscybergang/AWAIS-CYBER-VPS)
-[![Watchers](https://img.shields.io/github/watchers/awaiscybergang/AWAIS-CYBER-VPS?style=social)](https://github.com/awaiscybergang/AWAIS-CYBER-VPS)
+## *Powerful Cloud Hosting For Developers, Businesses & Creators*
+
+<br>
+
+```diff
++ ⚡ INSTANT DEPLOYMENT  •  🔒 ENTERPRISE SECURITY  •  🌍 GLOBAL INFRASTRUCTURE  •  💡 DEVELOPER FIRST
+```
+
+</div>
+
+<br>
+
+<div align="center">
+
+[![GitHub Repository](https://img.shields.io/badge/🚀_GITHUB_AWAIS_CYBER_VPS-00CFFF?style=for-the-badge&logo=github)](https://github.com/awaiscybergang/AWAIS-CYBER-VPS)
+[![Live Demo](https://img.shields.io/badge/🌐_LIVE_DEMO-8A2BE2?style=for-the-badge)](https://github.com/awaiscybergang/AWAIS-CYBER-VPS)
+[![Documentation](https://img.shields.io/badge/📚_DOCUMENTATION-00FFD5?style=for-the-badge)](https://github.com/awaiscybergang/AWAIS-CYBER-VPS)
+
+</div>
+
+<br>
+
+<!-- Animated Typing Effect -->
+<div align="center">
+
+```mermaid
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+💻 DEPLOY WEBSITES    🔌 DEPLOY APIS    🤖 DEPLOY BOTS    🗄️ DEPLOY DATABASES    
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
 
 </div>
 
 ---
 
-## 📌 Hero Header
+## 📊 PREMIUM BADGES
 
 <div align="center">
 
-### ⚡ Instant Deployment | 🔒 Enterprise Security | 🌍 Global Infrastructure | 💡 Developer First
-
-**Deploy Websites • Host Bots • Run APIs • Manage Databases • Monitor Servers • Control Everything**
-
-**[🌐 Live Demo](https://github.com/awaiscybergang/AWAIS-CYBER-VPS)** &nbsp;&nbsp;&nbsp; **[📚 Documentation](https://github.com/awaiscybergang/AWAIS-CYBER-VPS)** &nbsp;&nbsp;&nbsp; **[💬 Community](https://github.com/awaiscybergang/AWAIS-CYBER-VPS/issues)**
-
-</div>
-
----
-
-## 🏆 Premium Badges
-
-<div align="center">
+### 🏢 TECHNOLOGY STACK
 
 | Category | Badges |
 |----------|--------|
-| **Technology** | ![Express.js](https://img.shields.io/badge/Express.js-4.x-black?logo=express) ![Socket.io](https://img.shields.io/badge/Socket.io-4.x-white?logo=socket.io) ![JWT](https://img.shields.io/badge/JWT-Auth-red?logo=jsonwebtokens) |
-| **Database** | ![Mongoose](https://img.shields.io/badge/Mongoose-8.x-brown?logo=mongodb) ![Redis Ready](https://img.shields.io/badge/Redis-Ready-red?logo=redis) |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E5E5E5?logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript) |
-| **Security** | ![Helmet](https://img.shields.io/badge/Helmet-Secure-blue?logo=helmet) ![Rate Limit](https://img.shields.io/badge/Rate-Limited-red) ![CSRF](https://img.shields.io/badge/CSRF-Protected-green) |
-| **Deployment** | ![PM2](https://img.shields.io/badge/PM2-Ready-orange?logo=pm2) ![Nginx](https://img.shields.io/badge/Nginx-Reverse%20Proxy-green?logo=nginx) ![Docker](https://img.shields.io/badge/Docker-Ready-blue?logo=docker) |
-| **Code Quality** | ![Code Style](https://img.shields.io/badge/Code%20Style-Standard-brightgreen) ![ESLint](https://img.shields.io/badge/ESLint-Configured-4B32C3?logo=eslint) |
+| **Runtime** | ![Node.js](https://img.shields.io/badge/Node.js-18.x-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-8.x-CB3837?style=flat-square&logo=npm&logoColor=white) |
+| **Framework** | ![Express.js](https://img.shields.io/badge/Express.js-4.18-000000?style=flat-square&logo=express&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-4.5-010101?style=flat-square&logo=socketdotio&logoColor=white) |
+| **Database** | ![MongoDB](https://img.shields.io/badge/MongoDB-6.0-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Mongoose](https://img.shields.io/badge/Mongoose-8.0-880000?style=flat-square) |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **Security** | ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) ![bcrypt](https://img.shields.io/badge/bcrypt-003545?style=flat-square) ![Helmet](https://img.shields.io/badge/Helmet-7.1-6B6B6B?style=flat-square) |
+| **DevOps** | ![PM2](https://img.shields.io/badge/PM2-5.3-2B037A?style=flat-square&logo=pm2&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-1.24-009639?style=flat-square&logo=nginx&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| **Testing** | ![Jest](https://img.shields.io/badge/Jest-24.9-C21325?style=flat-square&logo=jest&logoColor=white) ![Supertest](https://img.shields.io/badge/Supertest-6.3-0052CC?style=flat-square) |
+
+### 📈 REPOSITORY STATISTICS
+
+| Metric | Status |
+|--------|--------|
+| **Stars** | [![GitHub stars](https://img.shields.io/github/stars/awaiscybergang/AWAIS-CYBER-VPS?style=for-the-badge&logo=github)](https://github.com/awaiscybergang/AWAIS-CYBER-VPS) |
+| **Forks** | [![GitHub forks](https://img.shields.io/github/forks/awaiscybergang/AWAIS-CYBER-VPS?style=for-the-badge&logo=github)](https://github.com/awaiscybergang/AWAIS-CYBER-VPS) |
+| **Watchers** | [![GitHub watchers](https://img.shields.io/github/watchers/awaiscybergang/AWAIS-CYBER-VPS?style=for-the-badge&logo=github)](https://github.com/awaiscybergang/AWAIS-CYBER-VPS) |
+| **Issues** | [![GitHub issues](https://img.shields.io/github/issues/awaiscybergang/AWAIS-CYBER-VPS?style=for-the-badge&logo=github)](https://github.com/awaiscybergang/AWAIS-CYBER-VPS) |
+| **Pull Requests** | [![GitHub pull requests](https://img.shields.io/github/issues-pr/awaiscybergang/AWAIS-CYBER-VPS?style=for-the-badge&logo=github)](https://github.com/awaiscybergang/AWAIS-CYBER-VPS) |
+| **Contributors** | [![GitHub contributors](https://img.shields.io/github/contributors/awaiscybergang/AWAIS-CYBER-VPS?style=for-the-badge&logo=github)](https://github.com/awaiscybergang/AWAIS-CYBER-VPS) |
+| **License** | [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge&logo=opensourceinitiative)](https://opensource.org/licenses/MIT) |
+| **Version** | [![Version](https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge&logo=vercel)](https://github.com/awaiscybergang/AWAIS-CYBER-VPS) |
 
 </div>
 
 ---
 
-## 📖 Project Overview
+## 🤖 MEET THE AWAIS CYBER AI ENGINEER
 
 <div align="center">
 
-**AWAIS CYBER VPS** is a **professional, production-ready VPS hosting control panel** that empowers developers, businesses, and creators to deploy and manage applications effortlessly.
+![AWAIS CYBER AI ENGINEER](docs/images/awais-cyber-robot.gif)
+
+### *A futuristic cyber-security inspired AI robot mascot representing innovation, automation, reliability and modern cloud infrastructure*
 
 </div>
 
-### 🎯 What Makes This Special?
+<div align="center">
 
-| Aspect | Description |
-|--------|-------------|
-| **🚀 Instant Deployment** | Deploy Node.js, Python, PHP, and static sites in seconds |
-| **🎨 Modern UI** | Glassmorphism cyberpunk design with neon effects |
-| **🔒 Enterprise Security** | JWT auth, rate limiting, CSRF protection, XSS prevention |
-| **📊 Real-time Monitoring** | Live CPU, RAM, storage, and network metrics with Socket.IO |
-| **💻 Browser Terminal** | Full command-line access from your web browser |
-| **🗄️ Database Manager** | Create and manage MongoDB, MySQL, PostgreSQL databases |
-| **📁 Advanced File Manager** | Upload, edit, delete, zip, unzip files directly |
-| **🌐 Domain Management** | Custom domains, subdomains, SSL certificates |
+| Responsibility | Description |
+|----------------|-------------|
+| 🛡️ **Infrastructure Guardian** | Monitors server health and system stability 24/7 |
+| 🚀 **Deployment Orchestrator** | Manages application deployments across the platform |
+| 🔒 **Security Sentinel** | Protects servers from threats and unauthorized access |
+| ⚡ **Performance Optimizer** | Ensures optimal resource utilization and speed |
+| 💡 **Cloud Innovator** | Powers cutting-edge cloud hosting features |
+
+</div>
+
+<br>
+
+> *"I am the silent guardian of your infrastructure, working tirelessly to ensure your applications run flawlessly. Every deployment, every request, every database query passes through my watchful circuits. Welcome to the future of cloud hosting."*
+> 
+> **— AWAIS CYBER AI ENGINEER**
 
 ---
 
-## 💭 Why This Project Exists
+## 📖 PROJECT OVERVIEW
 
 <div align="center">
 
-### The Problem
-
-Many developers and small businesses struggle with:
-- ❌ Complex VPS management interfaces
-- ❌ Expensive managed hosting solutions
-- ❌ Limited control over their infrastructure
-- ❌ No unified platform for all hosting needs
-
-### The Solution
-
-**AWAIS CYBER VPS bridges this gap** by providing:
-- ✅ **Simple, intuitive control panel**
-- ✅ **Complete infrastructure control**
-- ✅ **All-in-one hosting solution**
-- ✅ **Enterprise features at affordable cost**
-- ✅ **Open source & community driven**
+### *Enterprise-Grade VPS Control Panel for the Modern Era*
 
 </div>
 
----
+**AWAIS CYBER VPS** is a **production-ready, feature-rich hosting control panel** that transforms complex server management into an intuitive, powerful experience. Built for developers who demand control and businesses who need reliability.
 
-## ✨ Features
+### 🎯 What Makes AWAIS CYBER VPS Different?
 
-<div align="center">
+| Aspect | Traditional Hosting | AWAIS CYBER VPS |
+|--------|---------------------|-----------------|
+| **Control** | Limited cPanel access | Full root-like control via terminal |
+| **Deployment** | Manual configuration | One-click application deployment |
+| **Monitoring** | Basic statistics | Real-time metrics with live charts |
+| **Security** | Standard measures | Enterprise-grade protection |
+| **Cost** | Expensive managed solutions | Open-source & self-hostable |
+| **Flexibility** | Locked ecosystems | Deploy anything, anywhere |
 
-### 🎯 Core Platform Features
-
-</div>
-
-| Category | Features |
-|----------|----------|
-| **👤 User Management** | JWT Authentication • Email Verification • Password Reset • 2FA Ready • Role-based Access |
-| **🚀 Deployment** | Node.js • Python • PHP • Static Sites • REST APIs • Auto-start • Process Management |
-| **📁 File Manager** | Upload • Download • Edit • Delete • Rename • Move • Copy • ZIP Extract • Folder Creation |
-| **🗄️ Database** | MongoDB • MySQL • PostgreSQL • Redis • Backup • Restore • Import • Export |
-| **🌐 Domains** | Custom Domains • Subdomains • SSL Certificates • DNS Management • Auto-renewal |
-| **💻 Terminal** | Command Execution • Live Output • Process Monitoring • Service Control • File Operations |
-| **📊 Monitoring** | CPU Usage • RAM Usage • Storage • Bandwidth • Network Status • Live Charts |
-| **📝 Logs** | Application Logs • Server Logs • Deployment Logs • Error Logs • Search • Filter • Download |
-| **📈 Analytics** | Usage Graphs • Performance Metrics • Resource Trends • Deployment Statistics |
-
----
-
-## 🏗️ Architecture
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│                         Client Browser                       │
-│                    (React/Vanilla JS Frontend)               │
-└─────────────────────────────┬───────────────────────────────┘
-                              │
-                              ▼
-┌─────────────────────────────────────────────────────────────┐
-│                      Nginx Reverse Proxy                     │
-│                   (SSL Termination + Load Balance)           │
-└─────────────────────────────┬───────────────────────────────┘
-                              │
-                              ▼
-┌─────────────────────────────────────────────────────────────┐
-│                      Express.js Server                       │
-│  ┌──────────┐  ┌──────────┐  ┌──────────┐  ┌──────────┐   │
-│  │   Auth   │  │   API    │  │   File   │  │ Terminal │   │
-│  │   Layer  │  │  Routes  │  │   Ops    │  │   Shell  │   │
-│  └──────────┘  └──────────┘  └──────────┘  └──────────┘   │
-└─────────────┬───────────────┬───────────────┬───────────────┘
-              │               │               │
-              ▼               ▼               ▼
-┌─────────────────┐  ┌─────────────┐  ┌─────────────────┐
-│    MongoDB      │  │  File System│  │   Redis Cache   │
-│   (Database)    │  │ (Deployments)│  │   (Session)     │
-└─────────────────┘  └─────────────┘  └─────────────────┘
-
-            Socket.IO for Real-time Communication
-```
-
-</div>
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Backend Technologies
-
-| Technology | Version | Purpose |
-|------------|---------|---------|
-| **Node.js** | 18.x | JavaScript Runtime |
-| **Express.js** | 4.18 | Web Framework |
-| **MongoDB** | 6.0 | Primary Database |
-| **Mongoose** | 8.0 | ODM Library |
-| **Socket.IO** | 4.5 | Real-time Communication |
-| **JWT** | 9.0 | Authentication |
-| **bcryptjs** | 2.4 | Password Hashing |
-| **Multer** | 1.4 | File Upload |
-| **Adm-Zip** | 0.5 | ZIP Operations |
-| **Helmet** | 7.1 | Security Headers |
-
-### Frontend Technologies
-
-| Technology | Purpose |
-|------------|---------|
-| **HTML5** | Structure |
-| **CSS3** | Styling & Animations |
-| **Vanilla JS** | Interactivity |
-| **Chart.js** | Analytics Charts |
-| **Socket.IO Client** | Real-time Updates |
-| **Font Awesome** | Icons |
-
-### DevOps & Tools
-
-| Tool | Purpose |
-|------|---------|
-| **PM2** | Process Management |
-| **Nginx** | Reverse Proxy |
-| **Git** | Version Control |
-| **Docker** | Containerization |
-| **Let's Encrypt** | SSL Certificates |
-
-</div>
-
----
-
-## 📊 Dashboard Features
-
-<div align="center">
-
-### Real-time Monitoring Dashboard
-
-</div>
-
-| Widget | Description | Update Frequency |
-|--------|-------------|------------------|
-| **CPU Usage** | Real-time processor utilization | 2 seconds |
-| **RAM Usage** | Memory consumption analytics | 2 seconds |
-| **Storage Usage** | Disk space monitoring | 5 seconds |
-| **Network Usage** | Bandwidth in/out tracking | 5 seconds |
-| **System Uptime** | Server availability status | 10 seconds |
-| **Active Deployments** | Running applications count | Real-time |
-| **Recent Logs** | Latest system events | Real-time |
-| **Resource Alerts** | Threshold notifications | Real-time |
-
----
-
-## 🚀 Deployment Features
-
-<div align="center">
-
-### Supported Application Types
-
-</div>
+### 👥 Who Is This For?
 
 ```yaml
-Node.js Applications:
-  - Express.js APIs
-  - Nest.js Applications
-  - Discord/Telegram Bots
-  - Real-time WebSocket Servers
+Developers:
+  - Need complete control over their hosting environment
+  - Want to deploy multiple application types
+  - Require terminal access and file management
+  - Value open-source transparency
 
-Python Applications:
-  - Django Web Apps
-  - Flask APIs
-  - Automation Scripts
-  - Machine Learning APIs
+Businesses:
+  - Seeking cost-effective hosting solutions
+  - Need reliable infrastructure for client projects
+  - Want to avoid vendor lock-in
+  - Require white-label capable systems
 
-PHP Applications:
-  - Laravel Projects
-  - WordPress Sites
-  - Custom PHP Apps
-  - REST APIs
+DevOps Engineers:
+  - Building internal hosting platforms
+  - Need automation-ready systems
+  - Want API-driven infrastructure
+  - Value extensibility and customization
 
-Static Websites:
-  - HTML/CSS/JS Sites
-  - React/Vue Builds
-  - Documentation Sites
-  - Landing Pages
-
-REST APIs:
-  - Any Framework
-  - GraphQL Servers
-  - Webhook Endpoints
+Creators:
+  - Hosting portfolios and projects
+  - Building communities and tools
+  - Experimenting with new technologies
+  - Learning server management
 ```
 
-### Deployment Workflow
+### 🔥 Problems This Solves
 
-```
-1. Upload ZIP → 2. Extract Files → 3. Configure Environment → 4. Start Application → 5. Monitor Logs
+```diff
+- ❌ Paying expensive managed hosting fees
+- ❌ Struggling with complex server configurations
+- ❌ Managing multiple tools for different tasks
+- ❌ Limited control over your infrastructure
+- ❌ Security concerns with shared hosting
+- ❌ Slow deployment processes
+- ❌ Poor monitoring capabilities
+
++ ✅ Complete infrastructure control at zero software cost
++ ✅ Unified platform for all hosting needs
++ ✅ Enterprise security features built-in
++ ✅ Real-time monitoring and alerts
++ ✅ Instant deployment capabilities
++ ✅ Open-source & fully customizable
 ```
 
 ---
 
-## 📁 File Manager Features
+## ✨ FEATURES
 
 <div align="center">
 
-### Complete File Operations
+### *A Complete Cloud Infrastructure Platform*
 
 </div>
 
-| Operation | Supported | Description |
-|-----------|-----------|-------------|
-| **Upload Files** | ✅ | Single/Multiple files up to 100MB |
-| **Upload ZIP** | ✅ | Auto-extract or manual extraction |
-| **Create Folder** | ✅ | Nested directory structure |
-| **Edit Files** | ✅ | Built-in code editor with syntax highlighting |
-| **Delete** | ✅ | Single or bulk deletion |
-| **Rename** | ✅ | File and folder renaming |
-| **Move** | ✅ | Drag-drop or path-based moving |
-| **Copy** | ✅ | Duplicate files/folders |
-| **Download** | ✅ | Single file or ZIP download |
-| **Permissions** | ✅ | CHMOD file permissions |
-| **Search** | ✅ | File name content search |
-| **Preview** | ✅ | Image and text file preview |
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 **Deployment Engine**
+- Node.js applications
+- Python web apps
+- PHP projects
+- Static websites
+- REST APIs
+- Discord/Telegram bots
+- Auto-start management
+- Environment variables
+
+</td>
+<td width="50%">
+
+### 📁 **Advanced File Manager**
+- Upload files (ZIP supported)
+- Create/edit/delete files
+- Folder management
+- Rename/move/copy
+- ZIP extraction
+- Code editor
+- Permission management
+- Search functionality
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🗄️ **Database Management**
+- MongoDB databases
+- MySQL databases
+- PostgreSQL databases
+- Redis cache
+- Backup/restore
+- Import/export
+- Connection strings
+- User management
+
+</td>
+<td width="50%">
+
+### 🌐 **Domain Control**
+- Custom domains
+- Subdomain creation
+- SSL certificates
+- DNS verification
+- Auto-renewal
+- Domain forwarding
+- Wildcard support
+- Let's Encrypt integration
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 💻 **Browser Terminal**
+- Full command execution
+- Live output streaming
+- Process monitoring
+- Service management
+- File operations
+- Git commands
+- Package installation
+- Root-like access
+
+</td>
+<td width="50%">
+
+### 📊 **Real-time Monitoring**
+- CPU usage charts
+- RAM consumption
+- Storage analytics
+- Network bandwidth
+- Active processes
+- Service health
+- Uptime tracking
+- Custom alerts
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔐 **Authentication System**
+- JWT tokens
+- Email verification
+- Password reset
+- Session management
+- Role-based access
+- API key support
+- 2FA ready
+- Activity logging
+
+</td>
+<td width="50%">
+
+### 🛡️ **Security Layer**
+- Helmet.js protection
+- Rate limiting
+- CSRF tokens
+- XSS prevention
+- SQL injection protection
+- Secure cookies
+- Input validation
+- Error sanitization
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📈 Monitoring Features
+## 🏗️ ARCHITECTURE
 
 <div align="center">
 
-### Real-time System Metrics
+### *Enterprise Infrastructure Design*
+
+</div>
+
+```mermaid
+graph TB
+    subgraph "CLIENT LAYER"
+        A[Web Browser]
+        B[Mobile Device]
+        C[CLI Tool]
+    end
+    
+    subgraph "CDN & LOAD BALANCING"
+        D[Cloudflare CDN]
+        E[Nginx Load Balancer]
+    end
+    
+    subgraph "APPLICATION LAYER"
+        F[Express.js Server]
+        G[Socket.IO Server]
+        H[File Manager Service]
+        I[Deployment Engine]
+    end
+    
+    subgraph "DATA LAYER"
+        J[(MongoDB Primary)]
+        K[(MongoDB Replica)]
+        L[Redis Cache]
+        M[File Storage]
+    end
+    
+    subgraph "PROCESS LAYER"
+        N[PM2 Cluster]
+        O[Node.js Processes]
+        P[Python Processes]
+        Q[PHP Processes]
+    end
+    
+    A --> D
+    B --> D
+    C --> D
+    D --> E
+    E --> F
+    E --> G
+    F --> H
+    F --> I
+    F --> J
+    G --> L
+    H --> M
+    I --> N
+    N --> O
+    N --> P
+    N --> Q
+    J --> K
+```
+
+<div align="center">
+
+### *Data Flow Diagram*
+
+</div>
+
+```mermaid
+sequenceDiagram
+    participant User
+    participant Browser
+    participant API
+    participant MongoDB
+    participant Deployment
+    participant Terminal
+    
+    User->>Browser: Login Request
+    Browser->>API: POST /api/auth/login
+    API->>MongoDB: Verify credentials
+    MongoDB-->>API: User found
+    API-->>Browser: JWT Token
+    
+    User->>Browser: Deploy App
+    Browser->>API: POST /api/deployments
+    API->>Deployment: Create process
+    Deployment-->>API: Process started
+    API-->>Browser: Deployment success
+    
+    User->>Browser: Execute Command
+    Browser->>API: POST /api/terminal/command
+    API->>Terminal: Execute command
+    Terminal-->>API: Command output
+    API-->>Browser: Real-time output
+```
+
+---
+
+## 🛠️ COMPLETE TECH STACK
+
+<div align="center">
+
+### *Battle-Tested Technologies Powering AWAIS CYBER VPS*
+
+</div>
+
+<table>
+<thead>
+<tr>
+<th colspan="3">🚀 BACKEND TECHNOLOGIES</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+
+**Runtime Environment**
+- Node.js 18.x LTS
+- npm 9.x
+- PM2 5.3
+
+</td>
+<td>
+
+**Web Framework**
+- Express.js 4.18
+- Socket.IO 4.5
+- CORS enabled
+
+</td>
+<td>
+
+**Authentication**
+- JWT (JSON Web Tokens)
+- bcryptjs 2.4
+- express-session
+
+</td>
+</tr>
+<tr>
+<td>
+
+**Database ORM**
+- Mongoose 8.0
+- MongoDB Driver
+- Connection pooling
+
+</td>
+<td>
+
+**File Operations**
+- Multer 1.4
+- Adm-Zip 0.5
+- fs-extra 11.1
+
+</td>
+<td>
+
+**Security**
+- Helmet 7.1
+- express-rate-limit
+- express-validator
+
+</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr>
+<th colspan="3">🎨 FRONTEND TECHNOLOGIES</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+
+**Core Technologies**
+- HTML5
+- CSS3
+- JavaScript ES6+
+
+</td>
+<td>
+
+**UI/UX Features**
+- Glassmorphism design
+- Cyberpunk theme
+- Responsive layout
+
+</td>
+<td>
+
+**Data Visualization**
+- Chart.js 4.4
+- Real-time charts
+- Interactive graphs
+
+</td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr>
+<th colspan="3">🖥️ INFRASTRUCTURE & DEVOPS</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+
+**Web Server**
+- Nginx 1.24
+- Reverse proxy
+- Load balancing
+
+</td>
+<td>
+
+**Process Management**
+- PM2 cluster mode
+- Auto-restart
+- Log management
+
+</td>
+<td>
+
+**Containerization**
+- Docker ready
+- Docker Compose
+- Image optimization
+
+</td>
+</tr>
+<tr>
+<td>
+
+**Monitoring**
+- PM2 monit
+- Systeminformation
+- Custom metrics
+
+</td>
+<td>
+
+**Backup Solutions**
+- mongodump
+- cron jobs
+- Automated backups
+
+</td>
+<td>
+
+**SSL/TLS**
+- Let's Encrypt
+- Auto-renewal
+- HTTPS enforcement
+
+</td>
+</tr>
+</tbody>
+</table>
+
+---
+
+## 🎨 VISUAL SHOWCASE
+
+<div align="center">
+
+### *Experience The Interface*
+
+</div>
+
+### 📊 Dashboard Analytics
+
+<div align="center">
+
+![Dashboard Screenshot](docs/images/dashboard.png)
+
+*Real-time resource monitoring with live charts and instant alerts*
+
+| Widget | Live Data | Update Frequency |
+|--------|-----------|------------------|
+| CPU Monitor | Real-time usage % | Every 2 seconds |
+| RAM Monitor | Used/Total in GB | Every 2 seconds |
+| Storage Monitor | Disk space analytics | Every 5 seconds |
+| Network Monitor | RX/TX bandwidth | Every 5 seconds |
+
+</div>
+
+### 🚀 Deployment Manager
+
+<div align="center">
+
+![Deployments Screenshot](docs/images/deployments.png)
+
+*One-click deployment for all application types*
+
+```yaml
+Supported Applications:
+  ✅ Node.js (Express, Nest, Koa)
+  ✅ Python (Django, Flask, FastAPI)
+  ✅ PHP (Laravel, Symfony, WordPress)
+  ✅ Static Sites (React, Vue, Angular)
+  ✅ REST APIs (Any framework)
+  ✅ Bots (Discord, Telegram, Slack)
+```
+
+</div>
+
+### 📁 Advanced File Manager
+
+<div align="center">
+
+![File Manager Screenshot](docs/images/file-manager.png)
+
+*Complete file operations with modern interface*
+
+```diff
++ Upload files via drag-and-drop
++ Create folders and organize
++ Edit code in built-in editor
++ Extract ZIP archives
++ Search files by name
++ Preview images and text
++ Download files or folders
++ Set file permissions
+```
+
+</div>
+
+### 💻 Browser Terminal
+
+<div align="center">
+
+![Terminal Screenshot](docs/images/terminal.png)
+
+*Full Linux command-line access from your browser*
+
+```bash
+$ whoami
+awais-cyber-user
+
+$ uptime
+  up 7 days, 14 hours, 32 minutes
+
+$ pm2 list
+┌─────┬──────────┬─────────┬─────────┬─────────┐
+│ id  │ name     │ status  │ cpu     │ memory  │
+├─────┼──────────┼─────────┼─────────┼─────────┤
+│ 0   │ my-app   │ online  │ 2.5%    │ 128MB   │
+└─────┴──────────┴─────────┴─────────┴─────────┘
+```
+
+</div>
+
+### 📈 Monitoring Center
+
+<div align="center">
+
+![Monitoring Screenshot](docs/images/monitoring.png)
+
+*Enterprise-grade infrastructure monitoring*
+
+```yaml
+Real-time Metrics:
+  🖥️ CPU: ████████░░░░ 45% (2.5/5.5 GHz)
+  💾 RAM: ██████░░░░░░ 42% (2.1/5.0 GB)
+  💽 Disk: ██████████░░ 67% (33.5/50 GB)
+  🌐 Network: 125 KB/s ↓  85 KB/s ↑
+  
+Active Connections: 47
+Running Processes: 128
+Database Queries: 12.5k/min
+```
+
+</div>
+
+---
+
+## 🔒 ENTERPRISE SECURITY
+
+<div align="center">
+
+### *Zero-Trust Security Architecture*
 
 </div>
 
 ```mermaid
 graph LR
-    A[System Metrics] --> B[CPU Usage]
-    A --> C[RAM Usage]
-    A --> D[Storage Usage]
-    A --> E[Network Usage]
-    A --> F[Process List]
-    A --> G[Service Status]
+    subgraph "SECURITY LAYERS"
+        A[User Request] --> B[Rate Limiter]
+        B --> C[CSRF Protection]
+        C --> D[JWT Validation]
+        D --> E[Input Sanitizer]
+        E --> F[SQL/NoSQL Guard]
+        F --> G[Helmet Headers]
+        G --> H[Secure Response]
+    end
     
-    B --> H[Live Chart]
-    C --> H
-    D --> H
-    E --> H
-    F --> I[Process Manager]
-    G --> J[Service Control]
+    subgraph "ENCRYPTION"
+        I[Passwords: bcrypt 12 rounds]
+        J[JWT: HS256 algorithm]
+        K[Cookies: HTTP-only + Secure]
+        L[HTTPS: TLS 1.3]
+    end
+    
+    subgraph "MONITORING"
+        M[Login Attempts]
+        N[Failed Requests]
+        O[Suspicious Activity]
+        P[Rate Limit Alerts]
+    end
 ```
 
-### Metrics Collected
+### 🛡️ Security Features Matrix
 
-- **CPU**: Usage %, Cores, Speed, Temperature
-- **Memory**: Total, Used, Free, Cache, Swap
-- **Disk**: Total, Used, Free, I/O Operations
-- **Network**: RX/TX Bytes, Speed, Connections
-- **Processes**: PID, CPU%, Memory%, Command
-- **Services**: Status, Uptime, Port, PID
-
----
-
-## 🔒 Security Features
-
-<div align="center">
-
-### Enterprise-Grade Security
-
-</div>
-
-| Security Layer | Implementation |
-|----------------|----------------|
-| **Authentication** | JWT tokens with refresh mechanism |
-| **Password Storage** | bcrypt hashing (12 rounds) |
-| **Session Management** | Secure HTTP-only cookies |
-| **Rate Limiting** | 100 requests/15 minutes per IP |
-| **CSRF Protection** | Token-based validation |
-| **XSS Prevention** | Content Security Policy |
-| **SQL Injection** | Parameterized queries (ODM) |
-| **Headers Security** | Helmet.js with strict policies |
-| **File Upload** | Type validation, size limits |
-| **Input Validation** | Express-validator schemas |
-| **Error Handling** | No stack traces in production |
-| **API Security** | CORS with allowed origins |
+| Security Layer | Implementation | Protection Level |
+|----------------|----------------|------------------|
+| **Authentication** | JWT with refresh tokens | 🔒 Enterprise |
+| **Password Storage** | bcrypt (12 rounds) | 🔒 Military-grade |
+| **Session Management** | HTTP-only secure cookies | 🔒 Advanced |
+| **Rate Limiting** | 100 req/15min per IP | 🔒 DDoS Protection |
+| **CSRF Protection** | Token-based validation | 🔒 Web Attacks |
+| **XSS Prevention** | CSP headers + sanitization | 🔒 Script Injection |
+| **SQL Injection** | Parameterized queries/ODM | 🔒 Database |
+| **Input Validation** | Express-validator schemas | 🔒 Data Integrity |
+| **Headers Security** | Helmet.js full suite | 🔒 Information Leak |
+| **File Upload** | Type/size validation | 🔒 Malware |
 
 ---
 
-## 📦 Installation Guide
-
-<div align="center">
-
-### Complete Installation Steps
-
-</div>
-
-#### Prerequisites
+## 📂 PROFESSIONAL PROJECT STRUCTURE
 
 ```bash
-# Minimum Requirements
-Node.js: 16.0 or higher
-MongoDB: 5.0 or higher
-RAM: 2GB minimum
-Storage: 20GB minimum
-CPU: 2 cores minimum
+AWAIS-CYBER-VPS/
+│
+├── 🎯 backend/                          # Core backend services
+│   ├── 🧠 controllers/                  # Business logic (15 files)
+│   │   ├── authController.js           # Authentication & sessions
+│   │   ├── userController.js           # User management
+│   │   ├── deploymentController.js     # Deployment orchestration
+│   │   ├── databaseController.js       # Database operations
+│   │   ├── domainController.js         # Domain management
+│   │   ├── fileController.js           # File system operations
+│   │   ├── terminalController.js       # Command execution
+│   │   ├── monitoringController.js     # System monitoring
+│   │   ├── analyticsController.js      # Analytics engine
+│   │   └── adminController.js          # Administrative functions
+│   │
+│   ├── 📊 models/                       # MongoDB schemas (8 models)
+│   │   ├── User.js                     # User schema
+│   │   ├── Deployment.js               # Deployment schema
+│   │   ├── Database.js                 # Database schema
+│   │   ├── Domain.js                   # Domain schema
+│   │   ├── Subdomain.js                # Subdomain schema
+│   │   ├── Server.js                   # Server schema
+│   │   ├── Log.js                      # Logging schema
+│   │   └── Analytics.js                # Analytics schema
+│   │
+│   ├── 🛣️ routes/                       # API endpoints (11 files)
+│   │   ├── auth.js                     # Auth routes
+│   │   ├── users.js                    # User routes
+│   │   ├── deployments.js              # Deployment routes
+│   │   ├── databases.js                # Database routes
+│   │   ├── domains.js                  # Domain routes
+│   │   ├── subdomains.js               # Subdomain routes
+│   │   ├── files.js                    # File manager routes
+│   │   ├── terminal.js                 # Terminal routes
+│   │   ├── monitoring.js               # Monitoring routes
+│   │   ├── analytics.js                # Analytics routes
+│   │   └── admin.js                    # Admin routes
+│   │
+│   ├── 🛡️ middleware/                   # Security & validation (7 files)
+│   │   ├── auth.js                     # JWT verification
+│   │   ├── rateLimit.js                # Rate limiting
+│   │   ├── validation.js               # Input validation
+│   │   ├── security.js                 # Security headers
+│   │   ├── csrf.js                     # CSRF protection
+│   │   ├── errorHandler.js             # Error handling
+│   │   └── upload.js                   # File upload handling
+│   │
+│   ├── 🔧 services/                     # Business services (4 files)
+│   │   ├── emailService.js             # Email delivery
+│   │   ├── backupService.js            # Backup automation
+│   │   ├── monitoringService.js        # System monitoring
+│   │   └── deploymentService.js        # Deployment engine
+│   │
+│   ├── 🛠️ utils/                        # Helper utilities
+│   │   ├── helpers.js                  # Helper functions
+│   │   ├── constants.js                # Application constants
+│   │   └── validators.js               # Validation rules
+│   │
+│   └── 🚀 server.js                     # Express application entry
+│
+├── 🎨 frontend/                         # Frontend source code
+│   ├── 🎭 css/                          # Stylesheets (4 files)
+│   │   ├── style.css                   # Main styles
+│   │   ├── dashboard.css               # Dashboard styles
+│   │   ├── terminal.css                # Terminal styles
+│   │   └── responsive.css              # Responsive design
+│   │
+│   ├── ⚡ js/                           # JavaScript modules (12 files)
+│   │   ├── app.js                      # Main application
+│   │   ├── auth.js                     # Authentication
+│   │   ├── dashboard.js                # Dashboard logic
+│   │   ├── deployments.js              # Deployment logic
+│   │   ├── fileManager.js              # File manager
+│   │   ├── database.js                 # Database logic
+│   │   ├── domain.js                   # Domain logic
+│   │   ├── terminal.js                 # Terminal logic
+│   │   ├── monitoring.js               # Monitoring logic
+│   │   ├── analytics.js                # Analytics logic
+│   │   └── admin.js                    # Admin panel
+│   │
+│   ├── 📄 pages/                        # HTML pages (10 pages)
+│   │   ├── dashboard.html
+│   │   ├── deployments.html
+│   │   ├── file-manager.html
+│   │   ├── databases.html
+│   │   ├── domains.html
+│   │   ├── terminal.html
+│   │   ├── logs.html
+│   │   ├── analytics.html
+│   │   ├── settings.html
+│   │   └── admin.html
+│   │
+│   └── 🏠 index.html                    # Main entry point
+│
+├── 📁 uploads/                          # User uploaded files
+├── 🚀 deployments/                      # Deployed applications
+├── 💾 backups/                          # Database backups
+├── 📝 logs/                             # System logs
+├── 🌐 public/                           # Static assets
+├── 📚 docs/                             # Documentation
+│   └── 🖼️ images/                       # Screenshots & assets
+│       ├── dashboard.png
+│       ├── deployments.png
+│       ├── file-manager.png
+│       ├── terminal.png
+│       ├── monitoring.png
+│       └── awais-cyber-robot.gif
+│
+├── ⚙️ config/                           # Configuration files
+├── 🔐 .env                              # Environment variables
+├── 📦 package.json                      # NPM dependencies
+├── 🐳 Dockerfile                        # Docker configuration
+├── 🌍 nginx.conf                        # Nginx configuration
+├── 🚀 pm2.config.js                     # PM2 configuration
+└── 📖 README.md                         # Documentation
 ```
 
-#### Step 1: Clone Repository
+---
+
+## 🚀 INSTALLATION GUIDE
+
+<div align="center">
+
+### *Deploy in Minutes, Not Hours*
+
+</div>
+
+### 📋 Prerequisites
+
+```yaml
+Minimum Requirements:
+  🖥️ CPU: 2 cores @ 2.0 GHz
+  💾 RAM: 2 GB
+  💽 Storage: 20 GB SSD
+  🐧 OS: Ubuntu 20.04+ / Debian 11+ / CentOS 8+
+  🌐 Network: 100 Mbps
+  📦 Node.js: 16.0 or higher
+  🗄️ MongoDB: 5.0 or higher
+
+Recommended Specifications:
+  🖥️ CPU: 4 cores @ 2.5 GHz
+  💾 RAM: 4 GB
+  💽 Storage: 50 GB SSD
+  🐧 OS: Ubuntu 22.04 LTS
+  🌐 Network: 1 Gbps
+  📦 Node.js: 18.0 or higher
+  🗄️ MongoDB: 6.0 or higher
+```
+
+### Step 1: Clone Repository
 
 ```bash
 git clone https://github.com/awaiscybergang/AWAIS-CYBER-VPS.git
 cd AWAIS-CYBER-VPS
 ```
 
-#### Step 2: Install Dependencies
+### Step 2: Install Dependencies
 
 ```bash
 npm install
 ```
 
-#### Step 3: Install MongoDB
+### Step 3: Install & Configure MongoDB
 
 **Ubuntu/Debian:**
 ```bash
+# Import MongoDB GPG key
 wget -qO - https://www.mongodb.org/static/pgp/server-6.0.asc | sudo apt-key add -
+
+# Add MongoDB repository
 echo "deb [ arch=amd64,arm64 ] https://repo.mongodb.org/apt/ubuntu focal/mongodb-org/6.0 multiverse" | sudo tee /etc/apt/sources.list.d/mongodb-org-6.0.list
+
+# Install MongoDB
 sudo apt-get update
 sudo apt-get install -y mongodb-org
+
+# Start MongoDB service
 sudo systemctl start mongod
+sudo systemctl enable mongod
+
+# Verify installation
+sudo systemctl status mongod
 ```
 
 **macOS:**
@@ -409,412 +924,348 @@ brew install mongodb-community@6.0
 brew services start mongodb-community
 ```
 
-#### Step 4: Configure Environment
+**Windows:**
+```powershell
+# Download installer from:
+# https://www.mongodb.com/try/download/community
 
-```bash
-cp .env.example .env
-nano .env  # Edit with your configuration
+# Run installer (select Complete setup)
+# MongoDB will run as a Windows service
 ```
 
-#### Step 5: Create Directories
+### Step 4: Configure Environment Variables
+
+```bash
+# Create .env file
+cp .env.example .env
+
+# Edit configuration
+nano .env
+```
+
+**.env Configuration:**
+```env
+# Server Configuration
+PORT=5000
+NODE_ENV=production
+
+# Database Connection
+MONGODB_URI=mongodb://localhost:27017/awais-cyber-vps
+
+# JWT Security (Generate unique secrets!)
+JWT_SECRET=your-unique-jwt-secret-here-change-this
+JWT_REFRESH_SECRET=your-unique-refresh-secret-here-change-this
+
+# Session Security
+SESSION_SECRET=your-session-secret-here
+
+# Email Configuration (for password reset)
+EMAIL_HOST=smtp.gmail.com
+EMAIL_PORT=587
+EMAIL_USER=your-email@gmail.com
+EMAIL_PASS=your-app-password
+
+# Security Settings
+CSRF_SECRET=your-csrf-secret
+RATE_LIMIT_WINDOW_MS=900000
+RATE_LIMIT_MAX=100
+
+# Admin Account (first run only)
+ADMIN_EMAIL=admin@awaicyber.com
+ADMIN_PASSWORD=Admin@123456
+
+# Frontend URL
+FRONTEND_URL=http://localhost:5000
+```
+
+### Step 5: Create Required Directories
 
 ```bash
 mkdir -p uploads deployments backups logs public
 chmod 755 uploads deployments backups logs
 ```
 
-#### Step 6: Start Application
+### Step 6: Start the Application
 
+**Development Mode:**
 ```bash
-# Development
 npm run dev
+```
 
-# Production
+**Production Mode:**
+```bash
 npm start
+```
 
-# With PM2
+**With PM2 (Recommended):**
+```bash
+# Install PM2 globally
+npm install -g pm2
+
+# Start application
 pm2 start backend/server.js --name awais-cyber-vps
+
+# View status
+pm2 status
+
+# Monitor in real-time
+pm2 monit
+
+# View logs
+pm2 logs awais-cyber-vps
+
+# Save PM2 configuration
+pm2 save
+
+# Enable startup on boot
+pm2 startup
 ```
 
----
-
-## ⚡ Quick Start Guide
-
-<div align="center">
-
-### Get Running in 5 Minutes
-
-</div>
-
-#### 1️⃣ **Clone & Install**
+### Step 7: Access the Platform
 
 ```bash
-git clone https://github.com/awaiscybergang/AWAIS-CYBER-VPS.git
-cd AWAIS-CYBER-VPS
-npm install
-```
+# Open your browser and navigate to:
+http://localhost:5000
 
-#### 2️⃣ **Configure MongoDB**
-
-```bash
-# Start MongoDB
-sudo systemctl start mongod
-
-# Create database
-mongosh
-use awais-cyber-vps
-```
-
-#### 3️⃣ **Setup Environment**
-
-```bash
-# Create .env file
-cat > .env << EOF
-PORT=5000
-MONGODB_URI=mongodb://localhost:27017/awais-cyber-vps
-JWT_SECRET=your-super-secret-key-here
-JWT_REFRESH_SECRET=your-refresh-secret-here
-NODE_ENV=production
-ADMIN_EMAIL=admin@awaicyber.com
-ADMIN_PASSWORD=Admin@123456
-EOF
-```
-
-#### 4️⃣ **Launch Application**
-
-```bash
-# Create directories
-mkdir -p uploads deployments backups logs
-
-# Start server
-npm start
-
-# Access: http://localhost:5000
-# Login: admin@awaicyber.com / Admin@123456
+# Login with admin credentials:
+Email: admin@awaicyber.com
+Password: Admin@123456
 ```
 
 ---
 
-## 📂 Folder Structure
-
-```
-AWAIS-CYBER-VPS/
-│
-├── backend/                     # Backend source code
-│   ├── controllers/            # Business logic (10+ controllers)
-│   ├── models/                 # MongoDB schemas (8 models)
-│   ├── routes/                 # API endpoints (11 route files)
-│   ├── middleware/             # Security & validation (7 middleware)
-│   ├── services/               # Business services (4 services)
-│   ├── utils/                  # Helper functions
-│   └── server.js               # Entry point
-│
-├── frontend/                    # Frontend source code
-│   ├── css/                    # Stylesheets (4 files)
-│   ├── js/                     # JavaScript modules (12 files)
-│   ├── pages/                  # HTML pages (10 pages)
-│   └── index.html              # Main HTML file
-│
-├── uploads/                     # User uploaded files
-├── deployments/                 # Deployed applications
-├── backups/                     # Database backups
-├── logs/                        # System logs
-├── public/                      # Static assets
-├── docs/                        # Documentation
-│   └── images/                  # Screenshots
-│       ├── dashboard.png
-│       ├── deployments.png
-│       ├── file-manager.png
-│       └── awais-cyber-robot.png
-│
-├── .env                         # Environment variables
-├── package.json                 # Dependencies
-├── Dockerfile                   # Docker configuration
-├── nginx.conf                   # Nginx configuration
-└── README.md                    # Documentation
-```
-
----
-
-## 🔌 API Overview
+## 🌟 OPEN SOURCE VISION
 
 <div align="center">
 
-### Complete REST API Documentation
+### *Democratizing Cloud Infrastructure*
 
 </div>
 
-#### Authentication Endpoints
+```diff
++ EVERYONE SHOULD BE ABLE TO RUN THEIR OWN CLOUD
++ EVERY DEVELOPER SHOULD UNDERSTAND HOSTING
++ EVERY BUSINESS SHOULD CONTROL THEIR INFRASTRUCTURE
++ OPEN SOURCE IS THE FUTURE OF CLOUD
+```
 
-| Method | Endpoint | Description |
-|--------|----------|-------------|
-| `POST` | `/api/auth/register` | Create new account |
-| `POST` | `/api/auth/login` | Login to account |
-| `POST` | `/api/auth/logout` | Logout session |
-| `POST` | `/api/auth/refresh-token` | Refresh JWT token |
-| `POST` | `/api/auth/forgot-password` | Request password reset |
-| `POST` | `/api/auth/reset-password` | Reset password |
+### 💭 Our Philosophy
 
-#### Deployment Endpoints
+**AWAIS CYBER VPS** is built on the belief that **cloud infrastructure should be accessible, transparent, and controllable** by everyone. We're not just building a product; we're creating a movement.
 
-| Method | Endpoint | Description |
-|--------|----------|-------------|
-| `GET` | `/api/deployments` | List all deployments |
-| `POST` | `/api/deployments` | Create new deployment |
-| `GET` | `/api/deployments/:id` | Get deployment details |
-| `PUT` | `/api/deployments/:id/start` | Start deployment |
-| `PUT` | `/api/deployments/:id/stop` | Stop deployment |
-| `DELETE` | `/api/deployments/:id` | Delete deployment |
+### 🔓 What Open Source Means For You
 
-#### File Manager Endpoints
+| Freedom | Benefit |
+|---------|---------|
+| **Study the Code** | Learn how modern hosting platforms work |
+| **Modify Everything** | Customize every aspect for your needs |
+| **Self-Host** | Run your own VPS platform, no vendor lock-in |
+| **Contribute Back** | Join a community of like-minded developers |
+| **Build Your Business** | Use as foundation for your hosting company |
+| **No Hidden Costs** | 100% free, forever |
 
-| Method | Endpoint | Description |
-|--------|----------|-------------|
-| `GET` | `/api/files/list` | List files |
-| `POST` | `/api/files/upload` | Upload file |
-| `PUT` | `/api/files/edit` | Edit file content |
-| `DELETE` | `/api/files` | Delete file |
-| `POST` | `/api/files/extract` | Extract ZIP |
-
-#### Complete API Documentation available in the [Wiki](https://github.com/awaiscybergang/AWAIS-CYBER-VPS/wiki)
-
----
-
-## 📸 Screenshots
-
-<div align="center">
-
-### Dashboard View
-
-![Dashboard](docs/images/dashboard.png)
-*Real-time monitoring dashboard with live metrics*
-
-### Deployment Manager
-
-![Deployments](docs/images/deployments.png)
-*Manage all your applications in one place*
-
-### File Manager
-
-![File Manager](docs/images/file-manager.png)
-*Complete file operations with modern interface*
-
-### Terminal Access
-
-![Terminal](docs/images/terminal.png)
-*Browser-based terminal with full command access*
-
-</div>
-
-> **Note:** Screenshots are placeholders. Generate actual screenshots from your running instance.
-
----
-
-## 🗺️ Roadmap
-
-<div align="center">
-
-### Current Progress & Future Plans
-
-</div>
-
-#### ✅ Completed Features
-
-- [x] User authentication system
-- [x] Deployment manager (Node.js, Python, PHP, Static)
-- [x] File manager with full CRUD operations
-- [x] Database manager (MongoDB, MySQL, PostgreSQL)
-- [x] Domain & subdomain management
-- [x] Browser-based terminal
-- [x] Real-time monitoring with Socket.IO
-- [x] Admin panel with user management
-- [x] Logs system with search/filter
-- [x] Analytics dashboard
-- [x] Glassmorphism UI design
-- [x] Responsive layout
-
-#### 🔄 In Progress
-
-- [ ] Docker container deployment
-- [ ] Kubernetes orchestration
-- [ ] Auto-scaling functionality
-- [ ] Backup automation with scheduling
-- [ ] Two-Factor Authentication (2FA)
-- [ ] OAuth integration (GitHub, Google)
-- [ ] API rate limiting per user
-- [ ] Webhook integrations
-
-#### 📅 Planned Features
-
-- [ ] Serverless functions support
-- [ ] CDN integration
-- [ ] Load balancing configuration
-- [ ] Database clustering
-- [ ] Automated SSL renewal
-- [ ] Custom email templates
-- [ ] Mobile application
-- [ ] CLI tool for deployment
-- [ ] Terraform provider
-- [ ] Ansible playbooks
-
----
-
-## 🌟 Open Source Vision
-
-<div align="center">
-
-### A Future Built Together
-
-</div>
-
-**AWAIS CYBER VPS** is not just another hosting platform—it's a **community-driven ecosystem** where developers, system administrators, and hosting enthusiasts come together to build something extraordinary.
-
-### Our Philosophy
-
-- **🌍 Open by Default**: Every line of code is transparent and auditable
-- **🤝 Community First**: Features are driven by user needs
-- **📚 Learn Together**: Share knowledge, improve skills, grow as developers
-- **🔓 Freedom to Customize**: Fork, modify, deploy, and contribute back
-- **💡 Innovation Without Limits**: No proprietary locks, no hidden agendas
-
-### How You Can Contribute
-
-| Role | Contribution |
-|------|--------------|
-| **Developer** | Submit PRs, fix bugs, add features |
-| **Designer** | Improve UI/UX, create assets |
-| **Documentation** | Write guides, tutorials, API docs |
-| **Tester** | Report issues, test features |
-| **Advocate** | Star the repo, share with others |
-| **Sponsor** | Support development financially |
-
----
-
-## 👨‍💻 Developer Story
-
-<div align="center">
-
-### Built With Vision By Awais Cyber
-
-</div>
-
-This project represents **thousands of hours of continuous learning, experimentation, development, server management, automation, and cloud hosting innovation.**
-
-**Awais Cyber** is an independent technology brand focused on creating useful tools, hosting systems, automation solutions, and developer-focused platforms that solve real-world problems.
-
-### The Journey
+### 🌍 The Bigger Picture
 
 ```yaml
-Timeline:
-  - Month 1-2: Architecture design and planning
-  - Month 3-4: Backend development and API creation
-  - Month 5-6: Frontend design and implementation
-  - Month 7-8: Security hardening and testing
-  - Month 9-10: Documentation and polish
-  - Month 11-12: Beta testing and community feedback
-
-Challenges Overcome:
-  - Real-time monitoring with Socket.IO
-  - Secure terminal implementation
-  - Process management for multiple languages
-  - File system operations with security
-  - Database abstraction layer
-  - Scalable architecture design
+Mission:
+  Provide enterprise-grade hosting infrastructure
+  accessible to every developer, business, and creator
+  
+Values:
+  - Transparency in every line of code
+  - Community-driven development
+  - Continuous learning and improvement
+  - Breaking down hosting barriers
+  
+Impact:
+  - Reduced hosting costs for businesses
+  - Learning platform for developers
+  - Innovation in open infrastructure
+  - Global community building
 ```
 
-### What Drives Us
-
-- **🔬 Curiosity**: Exploring new technologies and best practices
-- **📈 Growth**: Learning from every challenge and mistake
-- **🤝 Community**: Building tools that help others succeed
-- **💪 Persistence**: Never giving up on difficult problems
-- **✨ Excellence**: Striving for quality in every line of code
-
 ---
 
-## 🤖 AWAIS CYBER Identity
+## 🗺️ ROADMAP
 
 <div align="center">
 
-### The Mascot
-
-![AWAIS CYBER Robot Mascot](docs/images/awais-cyber-robot.png)
-
-*A futuristic cyber-security inspired AI robot mascot representing innovation, automation, reliability and modern cloud infrastructure.*
-
-### Brand Values
-
-| Value | Description |
-|-------|-------------|
-| **Innovation** | Pushing boundaries of what's possible |
-| **Automation** | Eliminating manual repetitive tasks |
-| **Reliability** | Building systems you can trust |
-| **Security** | Protecting user data at all costs |
-| **Community** | Growing together, succeeding together |
+### *Building The Future Together*
 
 </div>
+
+### ✅ Completed Features (v1.0.0)
+
+```diff
++ User authentication & authorization system
++ Complete deployment manager (Node.js, Python, PHP, Static)
++ Advanced file manager with full CRUD operations
++ Database management (MongoDB, MySQL, PostgreSQL)
++ Domain & subdomain management system
++ Browser-based terminal with command execution
++ Real-time monitoring with Socket.IO
++ Admin panel with user management
++ Logs system with search and filter
++ Analytics dashboard with charts
++ Glassmorphism cyberpunk UI design
++ Fully responsive layout
++ JWT authentication with refresh tokens
++ Rate limiting & security headers
++ Email verification & password reset
++ File upload with ZIP extraction
++ Process management with PM2
+```
+
+### 🔄 In Progress (v1.1.0)
+
+```diff
+! Docker container deployment support
+! Kubernetes orchestration integration
+! Auto-scaling based on resource usage
+! Automated backup scheduling system
+! Two-Factor Authentication (2FA)
+! OAuth integration (GitHub, Google, GitLab)
+! Per-user API rate limiting
+! Webhook integrations (Discord, Slack, Telegram)
+! Mobile application development
+! CLI tool for deployment management
+```
+
+### 📅 Planned Features (v2.0.0)
+
+```diff
+- Serverless functions support
+- CDN integration (Cloudflare, AWS CloudFront)
+- Load balancing configuration interface
+- Database clustering management
+- Automated SSL certificate renewal
+- Custom email templates
+- White-label branding options
+- Terraform provider
+- Ansible playbooks
+- Prometheus metrics export
+- Grafana dashboard integration
+- Multi-region deployment support
+```
 
 ---
 
-## 📞 Contact Information
+## 👥 COMMUNITY & CONTRIBUTIONS
 
 <div align="center">
 
-### Get In Touch
+### *Together We Build Better*
 
 </div>
 
-| Channel | Contact |
-|---------|---------|
+### 🤝 How To Contribute
+
+| Role | Contribution | Impact |
+|------|--------------|--------|
+| **💻 Developer** | Submit PRs, fix bugs, add features | Direct code improvement |
+| **🎨 Designer** | Improve UI/UX, create assets | Better user experience |
+| **📝 Writer** | Documentation, tutorials, guides | Clearer communication |
+| **🐛 Tester** | Report issues, test features | Higher quality |
+| **🗣️ Advocate** | Star repo, share with others | Community growth |
+| **💸 Sponsor** | Financial support | Sustainable development |
+
+### 📋 Contribution Workflow
+
+```bash
+# 1. Fork the repository
+# 2. Clone your fork
+git clone https://github.com/YOUR_USERNAME/AWAIS-CYBER-VPS.git
+
+# 3. Create a feature branch
+git checkout -b feature/amazing-feature
+
+# 4. Make your changes
+# 5. Commit with conventional commits
+git commit -m "feat: add amazing feature"
+
+# 6. Push to your fork
+git push origin feature/amazing-feature
+
+# 7. Open a Pull Request
+```
+
+### 💬 Community Channels
+
+```yaml
+Discussions:
+  - GitHub Discussions for feature ideas
+  - Issue tracker for bug reports
+  - Pull requests for code contributions
+
+Communication:
+  - Discord: Coming soon
+  - Telegram: Coming soon
+  - Twitter: @awaiscybergang
+
+Resources:
+  - Documentation: In repository
+  - Wiki: Contribution guides
+  - Examples: Demo applications
+```
+
+---
+
+## 📞 SUPPORT & CONTACT
+
+<div align="center">
+
+### *We're Here To Help*
+
+</div>
+
+### 🆘 Getting Support
+
+| Issue Type | Best Channel | Response Time |
+|------------|--------------|---------------|
+| **🐛 Bug Report** | [GitHub Issues](https://github.com/awaiscybergang/AWAIS-CYBER-VPS/issues) | 24-48 hours |
+| **💡 Feature Request** | [GitHub Discussions](https://github.com/awaiscybergang/AWAIS-CYBER-VPS/discussions) | 48-72 hours |
+| **📖 Documentation** | [Repository Wiki](https://github.com/awaiscybergang/AWAIS-CYBER-VPS/wiki) | Self-service |
+| **🔧 Technical Help** | [Discord/Slack](#) | Coming soon |
+| **💼 Business Inquiries** | 📧 [rojxb268@gmail.com](mailto:rojxb268@gmail.com) | 24 hours |
+
+### 📧 Contact Information
+
+<div align="center">
+
+| Platform | Link/Handle |
+|----------|-------------|
 | **📧 Email** | [rojxb268@gmail.com](mailto:rojxb268@gmail.com) |
 | **🐙 GitHub** | [@awaiscybergang](https://github.com/awaiscybergang) |
-| **📁 Repository** | [github.com/awaiscybergang/AWAIS-CYBER-VPS](https://github.com/awaiscybergang/AWAIS-CYBER-VPS) |
-| **🐛 Issues** | [Report Bug](https://github.com/awaiscybergang/AWAIS-CYBER-VPS/issues) |
-| **💡 Ideas** | [Feature Request](https://github.com/awaiscybergang/AWAIS-CYBER-VPS/issues) |
-
----
-
-## 💬 Support Section
-
-<div align="center">
-
-### Need Help?
+| **📁 Repository** | [AWAIS-CYBER-VPS](https://github.com/awaiscybergang/AWAIS-CYBER-VPS) |
+| **🐦 Twitter** | [@awaiscybergang](#) (Coming Soon) |
+| **💬 Discord** | [Coming Soon](#) |
+| **📱 Telegram** | [Coming Soon](#) |
+| **🔗 LinkedIn** | [Coming Soon](#) |
+| **📺 YouTube** | [Coming Soon](#) |
+| **📘 Facebook** | [Coming Soon](#) |
 
 </div>
 
-#### Documentation
+### ⭐ Show Your Support
 
-- 📚 [Installation Guide](https://github.com/awaiscybergang/AWAIS-CYBER-VPS#installation-guide)
-- 🔧 [Configuration Guide](https://github.com/awaiscybergang/AWAIS-CYBER-VPS#configuration)
-- 🚀 [Deployment Guide](https://github.com/awaiscybergang/AWAIS-CYBER-VPS#deployment-guide)
-- 🔒 [Security Guide](https://github.com/awaiscybergang/AWAIS-CYBER-VPS#security-guide)
+**If AWAIS CYBER VPS has helped you, please consider:**
 
-#### Community Support
-
-- 💬 [GitHub Discussions](https://github.com/awaiscybergang/AWAIS-CYBER-VPS/discussions)
-- 🐛 [Issue Tracker](https://github.com/awaiscybergang/AWAIS-CYBER-VPS/issues)
-- 📧 [Email Support](mailto:rojxb268@gmail.com)
-
-#### Professional Support
-
-For businesses requiring dedicated support:
-
-- **Response Time**: 24 hours
-- **Email Support**: Priority queue
-- **Security Updates**: Critical patch notifications
-- **Custom Development**: Paid feature implementation
-
-**Contact**: [rojxb268@gmail.com](mailto:rojxb268@gmail.com)
+```diff
++ Starring the repository
++ Following @awaiscybergang on GitHub
++ Sharing with your network
++ Contributing code or documentation
++ Reporting bugs and suggesting features
++ Sponsoring the project (coming soon)
+```
 
 ---
 
-## 📄 License
+## 📄 LICENSE
 
 <div align="center">
 
-### MIT License
-
-Copyright © 2024-2025 Awais Cyber Gang
+### *MIT License - Open Source, Forever*
 
 </div>
 
@@ -842,81 +1293,17 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 
-### Additional Terms
+### 📋 License Summary
 
-- ✅ **Free to use** in personal and commercial projects
-- ✅ **Free to modify** and create derivatives
-- ✅ **Free to distribute** with proper attribution
-- ❌ **No warranty** provided (use at your own risk)
-- ❌ **No liability** for damages
-
----
-
-## ⭐ Star Repository Section
-
-<div align="center">
-
-### 🌟 If You Find Value in This Project, Please Star It! 🌟
-
-[![Star on GitHub](https://img.shields.io/github/stars/awaiscybergang/AWAIS-CYBER-VPS?style=for-the-badge&logo=github)](https://github.com/awaiscybergang/AWAIS-CYBER-VPS)
-
-### Why Star?
-
-- ⭐ **Show appreciation** for the hard work
-- ⭐ **Help others discover** the project
-- ⭐ **Motivate continued development**
-- ⭐ **Join our growing community**
-
-### Spread the Word
-
-```bash
-# Share on Twitter
-echo "Just discovered @awaiscybergang's AWAIS CYBER VPS - an amazing open-source hosting platform! 🚀 Check it out: https://github.com/awaiscybergang/AWAIS-CYBER-VPS"
-
-# Share on LinkedIn
-echo "Looking for a powerful VPS control panel? AWAIS CYBER VPS is open-source, feature-rich, and production-ready!"
-
-# Share on Dev.to
-echo "I'm using AWAIS CYBER VPS for my hosting needs. Built with Node.js, MongoDB, and Socket.IO - it's a game-changer!"
-```
-
-</div>
-
----
-
-## 🙏 Acknowledgments
-
-<div align="center">
-
-### Thanks To
-
-- **Node.js Community** - For the incredible runtime
-- **Express.js Team** - For the elegant framework
-- **MongoDB Team** - For the powerful database
-- **Socket.IO Team** - For real-time magic
-- **Open Source Community** - For inspiration and libraries
-- **All Contributors** - For making this project better
-
-### Special Thanks
-
-- Every developer who starred this repository
-- Everyone who reported issues and suggested features
-- The open source community for endless learning resources
-
----
-
-## 📊 Repository Statistics
-
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/awaiscybergang/AWAIS-CYBER-VPS)](https://github.com/awaiscybergang/AWAIS-CYBER-VPS)
-[![Forks](https://img.shields.io/github/forks/awaiscybergang/AWAIS-CYBER-VPS)](https://github.com/awaiscybergang/AWAIS-CYBER-VPS)
-[![Watchers](https://img.shields.io/github/watchers/awaiscybergang/AWAIS-CYBER-VPS)](https://github.com/awaiscybergang/AWAIS-CYBER-VPS)
-[![Issues](https://img.shields.io/github/issues/awaiscybergang/AWAIS-CYBER-VPS)](https://github.com/awaiscybergang/AWAIS-CYBER-VPS)
-[![Pull Requests](https://img.shields.io/github/issues-pr/awaiscybergang/AWAIS-CYBER-VPS)](https://github.com/awaiscybergang/AWAIS-CYBER-VPS)
-[![Contributors](https://img.shields.io/github/contributors/awaiscybergang/AWAIS-CYBER-VPS)](https://github.com/awaiscybergang/AWAIS-CYBER-VPS)
-
-</div>
+| Action | Permitted |
+|--------|-----------|
+| **Commercial Use** | ✅ Yes |
+| **Modification** | ✅ Yes |
+| **Distribution** | ✅ Yes |
+| **Private Use** | ✅ Yes |
+| **Sublicensing** | ❌ No (same license) |
+| **Liability** | ❌ No warranty |
+| **Trademark Use** | ❌ Restricted |
 
 ---
 
@@ -924,7 +1311,7 @@ echo "I'm using AWAIS CYBER VPS for my hosting needs. Built with Node.js, MongoD
 
 ## 🚀 AWAIS CYBER VPS
 
-### Powerful Cloud Hosting For Developers, Businesses & Creators
+### *Powerful Cloud Hosting For Developers, Businesses & Creators*
 
 ---
 
@@ -932,27 +1319,41 @@ echo "I'm using AWAIS CYBER VPS for my hosting needs. Built with Node.js, MongoD
 
 ---
 
-[**Report Bug**](https://github.com/awaiscybergang/AWAIS-CYBER-VPS/issues) • [**Request Feature**](https://github.com/awaiscybergang/AWAIS-CYBER-VPS/issues) • [**Star on GitHub**](https://github.com/awaiscybergang/AWAIS-CYBER-VPS) • [**Follow Updates**](https://github.com/awaiscybergang)
+```diff
++ OPEN SOUSE    •    DEVELOPER FOCUSED    •    INFRASTRUCTURE DRIVEN    •    SECURITY FIRST
+```
 
 ---
-
-### © 2024-2025 Awais Cyber Gang | Open Source Software | MIT License
-
-</div>
-
----
-
-## 🔗 Quick Links
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github)](https://github.com/awaiscybergang/AWAIS-CYBER-VPS)
-[![Issues](https://img.shields.io/badge/Report-Issues-red?style=flat-square&logo=github)](https://github.com/awaiscybergang/AWAIS-CYBER-VPS/issues)
-[![Discussions](https://img.shields.io/badge/Join-Discussions-blue?style=flat-square&logo=github)](https://github.com/awaiscybergang/AWAIS-CYBER-VPS/discussions)
-[![Email](https://img.shields.io/badge/Contact-Email-green?style=flat-square&logo=gmail)](mailto:rojxb268@gmail.com)
+### 🤖 Built By [Awais Cyber Gang](https://github.com/awaiscybergang)
+
+[![GitHub](https://img.shields.io/badge/Follow_@awaiscybergang-181717?style=for-the-badge&logo=github)](https://github.com/awaiscybergang)
+[![Star](https://img.shields.io/badge/⭐_Star_This_Repository-00CFFF?style=for-the-badge)](https://github.com/awaiscybergang/AWAIS-CYBER-VPS)
 
 </div>
 
 ---
 
-**Made with ❤️ by Awais Cyber Gang**
+### 📈 Repository Activity
+
+![Repository Activity](https://repobeats.axiom.co/api/embed/placeholder.svg)
+
+---
+
+### 🏆 Visitors Counter
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fawaiscybergang%2FAWAIS-CYBER-VPS&label=VIEWS&countColor=%2300CFFF)
+
+---
+
+**© 2024-2027 Awais Cyber Gang | Building The Future Of Open Infrastructure**
+
+[Back to Top ↑](#-awais-cyber-vps)
+
+</div>
+
+---
+
+*Last Updated: December 2026 | Version 2.0.0 | Open Source Software*
