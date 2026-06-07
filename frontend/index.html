@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AWAIS CYBER VPS - Powerful Cloud Hosting</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+    <!-- Loading Screen -->
+    <div id="loading" style="position: fixed; top: 0; left: 0; width: 100%; height: 100%; background: #0B0F19; z-index: 9999; display: flex; justify-content: center; align-items: center; flex-direction: column;">
+        <div class="spinner"></div>
+        <h2 style="color: #00CFFF; margin-top: 20px;">AWAIS CYBER VPS</h2>
+        <p>Loading...</p>
+    </div>
+
+    <!-- Sidebar -->
+    <div class="sidebar" id="sidebar">
+        <div class="sidebar-header">
+            <h2 class="neon-text">AWAIS CYBER</h2>
+            <p style="font-size: 12px; opacity: 0.7;">VPS Hosting Platform</p>
+        </div>
+        <div class="sidebar-menu" id="sidebar-menu">
+            <div class="sidebar-item active" data-page="dashboard">
+                <i class="fas fa-tachometer-alt"></i>
+                <span>Dashboard</span>
+            </div>
+            <div class="sidebar-item" data-page="deployments">
+                <i class="fas fa-cloud-upload-alt"></i>
+                <span>Deployments</span>
+            </div>
+            <div class="sidebar-item" data-page="files">
+                <i class="fas fa-folder"></i>
+                <span>File Manager</span>
+            </div>
+            <div class="sidebar-item" data-page="terminal">
+                <i class="fas fa-terminal"></i>
+                <span>Terminal</span>
+            </div>
+            <div class="sidebar-item" data-page="databases">
+                <i class="fas fa-database"></i>
+                <span>Databases</span>
+            </div>
+            <div class="sidebar-item" data-page="domains">
+                <i class="fas fa-globe"></i>
+                <span>Domains</span>
+            </div>
+            <div class="sidebar-item" data-page="admin" id="admin-menu" style="display: none;">
+                <i class="fas fa-user-shield"></i>
+                <span>Admin Panel</span>
+            </div>
+        </div>
+    </div>
+
+    <!-- Main Content -->
+    <div class="main-content" id="main-content">
+        <!-- Top Bar -->
+        <div class="top-bar">
+            <div>
+                <i class="fas fa-bars" id="menu-toggle" style="font-size: 24px; cursor: pointer;"></i>
+            </div>
+            <div class="user-info">
+                <span id="user-name"></span>
+                <i class="fas fa-user-circle" style="font-size: 32px; color: #00CFFF;"></i>
+                <button id="logout-btn" class="btn-secondary" style="padding: 8px 16px;">Logout</button>
+            </div>
+        </div>
+
+        <!-- Page Content -->
+        <div id="page-content"></div>
+    </div>
+
+    <!-- Maintenance Modal -->
+    <div id="maintenance-modal" class="modal">
+        <div class="modal-content" style="text-align: center;">
+            <i class="fas fa-tools" style="font-size: 64px; color: #FFB800;"></i>
+            <h2>AWAIS CYBER VPS</h2>
+            <h3>Server Under Maintenance</h3>
+            <p>Our infrastructure is temporarily unavailable.</p>
+            <p>Please try again later.</p>
+            <p style="color: #FF3366;">Status: Offline</p>
+            <button onclick="checkMaintenance()" class="btn-primary">Check Status</button>
+        </div>
+    </div>
+
+    <script src="/js/app.js"></script>
+</body>
+</html>
