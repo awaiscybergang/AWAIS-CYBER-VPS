@@ -1,31 +1,16 @@
 {
   "name": "awais-cyber-vps",
   "version": "1.0.0",
-  "description": "Professional VPS Hosting Platform - Complete Control Panel for Deployments, Databases, and Server Management",
+  "description": "Professional VPS Hosting Platform - Complete Control Panel",
   "main": "backend/server.js",
   "scripts": {
-    "start": "NODE_ENV=production node backend/server.js",
+    "start": "node backend/server.js",
     "dev": "nodemon backend/server.js",
     "pm2:start": "pm2 start backend/server.js --name awais-cyber-vps",
     "pm2:stop": "pm2 stop awais-cyber-vps",
     "pm2:restart": "pm2 restart awais-cyber-vps",
-    "pm2:logs": "pm2 logs awais-cyber-vps",
-    "pm2:monit": "pm2 monit"
+    "pm2:logs": "pm2 logs awais-cyber-vps"
   },
-  "keywords": [
-    "vps",
-    "hosting",
-    "cloud",
-    "deployment",
-    "nodejs",
-    "express",
-    "mongodb",
-    "socketio",
-    "control-panel",
-    "web-hosting"
-  ],
-  "author": "Awais Cyber Gang",
-  "license": "MIT",
   "dependencies": {
     "express": "^4.18.2",
     "mongoose": "^8.0.0",
@@ -40,25 +25,18 @@
     "express-validator": "^7.0.1",
     "cookie-parser": "^1.4.6",
     "dotenv": "^16.3.1",
-    "nodemailer": "^6.9.7",
     "compression": "^1.7.4",
     "express-session": "^1.17.3",
     "fs-extra": "^11.1.1",
-    "archiver": "^6.0.1",
-    "pidusage": "^3.0.2",
     "systeminformation": "^5.21.22",
-    "winston": "^3.11.0",
-    "uuid": "^9.0.1"
+    "os-utils": "^0.0.14",
+    "pidusage": "^3.0.2",
+    "child_process": "^1.0.2"
   },
   "devDependencies": {
     "nodemon": "^3.0.1"
   },
   "engines": {
-    "node": ">=16.0.0",
-    "npm": ">=8.0.0"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/awaiscybergang/AWAIS-CYBER-VPS"
+    "node": ">=16.0.0"
   }
 }
